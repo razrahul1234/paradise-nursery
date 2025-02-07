@@ -1,0 +1,22 @@
+.main {
+   text-align: center;
+   display: flex;
+   gap: 10px;
+   flex-direction: row;  
+   place-items: center;
+   color: white;
+   height: 100vh;
+  }
+
+  .getStartedButton{
+    background-color: burlywood;
+    color: white;
+  }
+
+  .left{
+     flex-basis: 40%;
+  }
+
+  .right{
+     flex-basis: 60%;
+  }
