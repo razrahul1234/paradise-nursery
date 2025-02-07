@@ -32,7 +32,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p> */}
 
-      <Router>
+      <Router basename='/paradise-nursery/'>
         {/* <nav>
           <Link to="/">Home</Link>
           <Link to="/conference"></Link>
