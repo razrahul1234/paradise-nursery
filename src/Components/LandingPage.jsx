@@ -7,7 +7,7 @@ export const LandingPage = () => {
     const navigate = useNavigate();
 
     const rouetToProductListing = () => {
-        navigate('/home')
+        navigate('/home');
     }
 
     return (
